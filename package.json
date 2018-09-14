@@ -1,0 +1,11 @@
+{
+  "name": "explorando-marte",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kleber Rodrigo de Carvalho <kleber.carvalho@gmail.com> (http://www.KleberCarvalho.com/)",
+  "license": "ISC"
+}
